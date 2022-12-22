@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4013592701353422302
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1999046231, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: healthBar
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756858473078888464, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756858473078888464, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756858473078888464, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756858473078888464, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756858473078888464, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756858473078888464, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756858473078888464, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756858473078888464, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756858473078888464, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756858473078888464, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756858473078888464, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756858473078888465, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+      propertyPath: m_Name
+      value: MC nivel1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 3756858473078888457, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+--- !u!4 &256757596119138276 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3756858472878379578, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+  m_PrefabInstance: {fileID: 4013592701353422302}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &256757596186080713 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 3756858473078888471, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+  m_PrefabInstance: {fileID: 4013592701353422302}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &256757596186080719 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3756858473078888465, guid: 17e3588294e7317488b48c97f99f6706, type: 3}
+  m_PrefabInstance: {fileID: 4013592701353422302}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4490537116701204738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 256757596186080719}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07122c402141cc24492db09962603549, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  firePoint: {fileID: 256757596119138276}
+  bulletPrefab: {fileID: 3410423452114415822, guid: ab4a883007241d64cb1de94151e97a5e, type: 3}
+  animator: {fileID: 256757596186080713}
+  canFire: 1
+  player: {fileID: 0}
+  playerAttack: 0
