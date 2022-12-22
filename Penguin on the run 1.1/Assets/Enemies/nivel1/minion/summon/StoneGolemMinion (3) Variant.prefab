@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &693208577349503709
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 982229157, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_Volume
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 982229158, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: audioSorcLESSVOL
+      value: 
+      objectReference: {fileID: 8832503787361736456}
+    - target: {fileID: 5553267783796284656, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_BodyType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284657, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284658, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 03713c05ef07a644abba03332837feb4, type: 2}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6499999
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284661, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: maxHealth
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284663, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_Name
+      value: StoneGolemMinion (3) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284663, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284671, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284671, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: bullets
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553267783796284671, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+      propertyPath: firePoint
+      value: 
+      objectReference: {fileID: 4940429168524891694}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+--- !u!4 &4940429168524891694 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5553267783796284659, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+  m_PrefabInstance: {fileID: 693208577349503709}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &8832503787361736456 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: -932914851564036651, guid: 756c5b80da8d0b940b669943ff548979, type: 3}
+  m_PrefabInstance: {fileID: 693208577349503709}
+  m_PrefabAsset: {fileID: 0}
