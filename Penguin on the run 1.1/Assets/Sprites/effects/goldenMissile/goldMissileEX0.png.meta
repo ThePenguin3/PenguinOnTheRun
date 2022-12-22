@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: e91b2dc2a6bc97e4689dfc3db0e9c68c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goldMissileEX0_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129
+        width: 60
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cd45ca357d32b4fbde5031d6015def
+      internalID: -164720582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 130
+        width: 60
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7632911e1e5284d96cd1a710061bf9
+      internalID: 1399602495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 130
+        width: 65
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f731c0a730fc148807fab430c013f5
+      internalID: -36477818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 130
+        width: 65
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d395b4d9d7e1ade43836466d55dc697a
+      internalID: -808000002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 130
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f207933b140f4440ba46535a0b17374
+      internalID: 596477015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 131
+        width: 65
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af5592018ab3f847b20a006e97a9ec9
+      internalID: 2024681489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 130
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1c5948ee74f064085ae5c20ea9485c
+      internalID: 470964556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 129
+        width: 65
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c21711fc09cae469f59acd215fb60e
+      internalID: -719546598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_8
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 129
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d208ebde1fd9bc448b911bd568fabbb
+      internalID: 603578619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_9
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 129
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c1e50d5ff1883479267161255d8285
+      internalID: 325031115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_10
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 128
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d8ac26c3e474a4783710151a6823f5
+      internalID: 217215973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_11
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 128
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ff98638fa300345934715d67241740
+      internalID: -1396315722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_12
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 128
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26d4575df037c646bc68c169d027cfa
+      internalID: 823299192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_13
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 128
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e441631bc250a4428aa6a60e87ab70e
+      internalID: -1402527853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_14
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 128
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c871d0352630554ab083d10d81527fa
+      internalID: 987811695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_15
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 128
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53f8bd0e3b4dc448a46f9ccec524eab
+      internalID: 1819835338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_16
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 127
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292e0b586dc453b489ed8969918cd17c
+      internalID: 157360157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_17
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 126
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9987797ce7268a4bb5661756e81f7ac
+      internalID: -523641126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_18
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 127
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0635e3098347d0347a17f929b1ce075e
+      internalID: -1108299960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_19
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 127
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.49392787, y: 0.24497756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b419f5edbc9c29f4690bee4577574205
+      internalID: 1649454541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_20
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 127
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4757115, y: 0.23169509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b2ec33c30c19748ab368500ef1440a
+      internalID: -272071715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_21
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 128
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.52428675, y: 0.21044321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b112e129161104a95b0fed68cf45db
+      internalID: 500561458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_22
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 128
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.51821464, y: 0.19450426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b020f8a8d10880f49a30ec0a7166d306
+      internalID: -489424144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_23
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 128
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.51821464, y: 0.18653479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33919c2b28a4f24d9c548de2950bf2b
+      internalID: 495575737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_24
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 128
+        width: 60
+        height: 160
+      alignment: 9
+      pivot: {x: 0.52125245, y: 0.18387833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeafcccee7f85dd41b7132e89b36ccc0
+      internalID: 91709568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_25
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 130
+        width: 50
+        height: 160
+      alignment: 9
+      pivot: {x: 0.50849855, y: 0.13340512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9a1ed90a881a94394deb758cf99bbc
+      internalID: -1133839973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldMissileEX0_26
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 130
+        width: 40
+        height: 160
+      alignment: 9
+      pivot: {x: 0.52125245, y: 0.10152731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb2676008d246749a20826137966af1
+      internalID: -717992725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      goldMissileEX0_21: 500561458
+      goldMissileEX0_5: 2024681489
+      goldMissileEX0_2: -36477818
+      goldMissileEX0_9: 325031115
+      goldMissileEX0_14: 987811695
+      goldMissileEX0_22: -489424144
+      goldMissileEX0_3: -808000002
+      goldMissileEX0_1: 1399602495
+      goldMissileEX0_12: 823299192
+      goldMissileEX0_11: -1396315722
+      goldMissileEX0_23: 495575737
+      goldMissileEX0_24: 91709568
+      goldMissileEX0_7: -719546598
+      goldMissileEX0_13: -1402527853
+      goldMissileEX0_4: 596477015
+      goldMissileEX0_10: 217215973
+      goldMissileEX0_17: -523641126
+      goldMissileEX0_18: -1108299960
+      goldMissileEX0_20: -272071715
+      goldMissileEX0_26: -717992725
+      goldMissileEX0_8: 603578619
+      goldMissileEX0_15: 1819835338
+      goldMissileEX0_19: 1649454541
+      goldMissileEX0_16: 157360157
+      goldMissileEX0_6: 470964556
+      goldMissileEX0_0: -164720582
+      goldMissileEX0_25: -1133839973
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

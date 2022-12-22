@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 5a8afaf3396c14a40b7046f33d761e2c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: apocalypse_idle00
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1093
+        width: 100
+        height: 125
+      alignment: 9
+      pivot: {x: 0.50515234, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6a494c334bd1f42bdbb892ba74ab3c
+      internalID: 132421940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_idle01
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1093
+        width: 100
+        height: 125
+      alignment: 9
+      pivot: {x: 0.50467974, y: 0.4914873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fdefcb8f730d642b13b2fc67319b85
+      internalID: -1813871794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_idle02
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1094
+        width: 100
+        height: 125
+      alignment: 9
+      pivot: {x: 0.46536177, y: 0.4921299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c25d24b023d9441b83515d49c25665
+      internalID: -1861354034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_idle03
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1093
+        width: 100
+        height: 125
+      alignment: 9
+      pivot: {x: 0.47509947, y: 0.5001289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47264db2794a1be48b94c75902a218e5
+      internalID: 459317891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_idle04
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1093
+        width: 100
+        height: 125
+      alignment: 9
+      pivot: {x: 0.47509584, y: 0.50010157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9f5cd561837404fa2222e3fa98466a
+      internalID: -178261082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_idle05
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1093
+        width: 100
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5046826, y: 0.51595604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbdf7ce4b6c0ff4eaf6659a43d006f2
+      internalID: 32418072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_idle06
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1093
+        width: 100
+        height: 125
+      alignment: 9
+      pivot: {x: 0.48529112, y: 0.5157461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da6a818c06940145bce40ff920df9c8
+      internalID: -1086904268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_idle07
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1093
+        width: 100
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5046698, y: 0.50543845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5f02c9652bb6b409aa1cf3967d156b
+      internalID: 2025024297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity00
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 205
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5207159583f7a3f4c84991a8a1bcd5c4
+      internalID: 200911727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity01
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 205
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ecd0db8930776499a1e95ab5b02f77
+      internalID: -691312620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity02
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 205
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b75f022602853b4cbcd80a729e56bda
+      internalID: -1473700192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity03
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 205
+        width: 85
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47484437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469a33cd8d4ae9f4c9f27b92c4a560a4
+      internalID: 165353100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_die00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 95
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e81291be18a224492609d890acd0a1
+      internalID: 1769210717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_die01
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 191
+        width: 95
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b559fd7301918e4f9a6661183d38abb
+      internalID: -35239895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_atk00
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 481
+        width: 95
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5091412, y: 0.4102311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86235a0786ea2674b90e8c0f7307ecdf
+      internalID: 513520968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_atk01
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 482
+        width: 95
+        height: 150
+      alignment: 9
+      pivot: {x: 0.520698, y: 0.4102311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed451cc027af634ca983430864d8ec0
+      internalID: 2037751359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_atk02
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 482
+        width: 120
+        height: 150
+      alignment: 9
+      pivot: {x: 0.53, y: 0.503033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fea9c7be5dc2c046bc84b8d94edfd3d
+      internalID: -957153449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_atk03
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 481
+        width: 120
+        height: 150
+      alignment: 9
+      pivot: {x: 0.54, y: 0.503033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40864c777e672754c991cf4f10b8b714
+      internalID: 1163320366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse_atk04
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 480
+        width: 120
+        height: 150
+      alignment: 9
+      pivot: {x: 0.55, y: 0.503033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951e897ec6de1ec4e8bd9f6fe2298366
+      internalID: -880188879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      apocalypse_atk01: 2037751359
+      apocalypse_atk02: -957153449
+      apocalypse_idle06: -1086904268
+      apocalypse_idle02: -1861354034
+      electricity00: 200911727
+      electricity01: -691312620
+      electricity02: -1473700192
+      electricity03: 165353100
+      apocalypse_idle04: -178261082
+      apocalypse_idle03: 459317891
+      apocalypse_idle01: -1813871794
+      apocalypse_atk00: 513520968
+      apocalypse_idle00: 132421940
+      apocalypse_atk03: 1163320366
+      apocalypse_idle05: 32418072
+      apocalypse_idle07: 2025024297
+      apocalypse_die01: -35239895
+      apocalypse_die00: 1769210717
+      apocalypse_atk04: -880188879
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

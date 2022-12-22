@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 3c49d1d363d319e499180284ae480628
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trueForm_idle00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2298
+        width: 150
+        height: 220
+      alignment: 9
+      pivot: {x: 0.4709354, y: 0.52237546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add91ed8841ac4d41b3c98292a8a2a6f
+      internalID: -1493621531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trueForm_idle01
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2293
+        width: 160
+        height: 225
+      alignment: 9
+      pivot: {x: 0.44786692, y: 0.5003277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01dd8c2efe2e2442a49035a02adbb40
+      internalID: -810704296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trueForm_idle02
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2293
+        width: 150
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5175472, y: 0.4894835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f4af81c954d7488ac631e2cd04cdb
+      internalID: -781026726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trueForm_idle03
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2293
+        width: 150
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5236271, y: 0.47848308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d629a5553d994a8944cecd0953ebc
+      internalID: 1583381947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trueForm_idle04
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2298
+        width: 150
+        height: 220
+      alignment: 9
+      pivot: {x: 0.50648844, y: 0.5272583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396b31e7a577e8944941841e4cbd514e
+      internalID: -165451907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trueForm_idle05
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2298
+        width: 150
+        height: 220
+      alignment: 9
+      pivot: {x: 0.472784, y: 0.5043457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b392f028ba22f4d9dd7a94f1041905
+      internalID: 41661265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trueForm_atk00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1776
+        width: 150
+        height: 230
+      alignment: 9
+      pivot: {x: 0.46420634, y: 0.46206585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0ca18570b212547a96e795b84eaf94
+      internalID: -878796750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trueForm_atk01
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1771
+        width: 160
+        height: 230
+      alignment: 9
+      pivot: {x: 0.4454705, y: 0.4795734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3daf2a3596d014d9f07f08a8ed873a
+      internalID: -2063000623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trueForm_atk02
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1770
+        width: 170
+        height: 230
+      alignment: 9
+      pivot: {x: 0.4519804, y: 0.47665378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaa4ec2c41b1c34caa1fde258360665
+      internalID: 1476575226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trueForm_atk03
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1767
+        width: 180
+        height: 230
+      alignment: 9
+      pivot: {x: 0.4579549, y: 0.4677124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca692e2312139e4088255c6f8c43c20
+      internalID: -2082782207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trueForm_atk04
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1764
+        width: 170
+        height: 230
+      alignment: 9
+      pivot: {x: 0.424991, y: 0.4620653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dbd7ec5497a314dbb28793869b7f7b
+      internalID: -1197543484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trueForm_atk05
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1774
+        width: 160
+        height: 230
+      alignment: 9
+      pivot: {x: 0.4967598, y: 0.4507993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f435182563694daea6b2bdc810255
+      internalID: -723555144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evolve00
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 743
+        width: 160
+        height: 215
+      alignment: 9
+      pivot: {x: 0.40056944, y: 0.52071875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1a19edd3b67c844838c04ebae7e3c1
+      internalID: 442836273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evolve01
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 744
+        width: 160
+        height: 215
+      alignment: 9
+      pivot: {x: 0.45227337, y: 0.49260083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be8467d3508e074baf8a5b1f9030eb9
+      internalID: 1391921573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evolve02
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 737
+        width: 180
+        height: 220
+      alignment: 9
+      pivot: {x: 0.45050573, y: 0.49132246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d2bdbfa4afe434fb8edef63cefbef0
+      internalID: -953428742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evolve03
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 752
+        width: 160
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4ce9b2d41ce31468a996b5cc149300
+      internalID: 207359989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evolve04
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 751
+        width: 100
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8b2535205591648adfbd669d44e0cd
+      internalID: 1858020846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evolve05
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 741
+        width: 100
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a511ed5d9dc78b446bedb9584ff03e77
+      internalID: -769032239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      trueForm_idle02: -781026726
+      evolve05: -769032239
+      trueForm_idle01: -810704296
+      trueForm_atk04: -1197543484
+      evolve02: -953428742
+      trueForm_atk00: -878796750
+      evolve00: 442836273
+      trueForm_idle00: -1493621531
+      trueForm_atk03: -2082782207
+      trueForm_atk05: -723555144
+      evolve03: 207359989
+      trueForm_idle04: -165451907
+      trueForm_atk02: 1476575226
+      trueForm_idle05: 41661265
+      evolve04: 1858020846
+      evolve01: 1391921573
+      trueForm_atk01: -2063000623
+      trueForm_idle03: 1583381947
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

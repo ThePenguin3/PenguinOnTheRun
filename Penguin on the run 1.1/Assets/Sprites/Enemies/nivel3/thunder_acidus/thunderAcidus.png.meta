@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 79e8bbae2e5e99a4bb0d07858c8bbb6a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thunderAcidus_idlewalk00
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 632
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b63358b3f755f94bb39a97888579805
+      internalID: -82949916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderAcidus_idlewalk01
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 640
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34364bcad74881b429a19387447eca2d
+      internalID: 973783556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderAcidus_idlewalk02
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 635
+        width: 132
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b1063a03969844db96cc336f915995
+      internalID: 354131310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderAcidus_idlewalk03
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 631
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058a524044797f7489f780fc2facb8d5
+      internalID: 1093954014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderAcidus_idlewalk04
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 622
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5fb8e41d517674291f9f5865778acd
+      internalID: -127454828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderAcidus_idlewalk05
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 621
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a19869441fa7049b4c8990eff18a74
+      internalID: -341912648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderAcidus_idlewalk06
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 626
+        width: 113
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3927f54150c12ac4589a2c15983237c2
+      internalID: -1089775222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderAcidus_idlewalk07
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 643
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09b7bbccd329ba4e90a331c70165a79
+      internalID: 2035981003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderAcidus_atk00
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 135
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229908593cf3cf941b161f5d2f0dc21e
+      internalID: -267257866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderAcidus_atk01
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 129
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b4fef9cfcc6274d98ce200bea4fa8b
+      internalID: -96525110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderAcidus_die00
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 97
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82d01f1b435ebc4d905e3a4cf16cf18
+      internalID: -1052063033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderAcidus_die01
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 6
+        width: 87
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b90c2138b78545ac6031b7099c5d1
+      internalID: -1174417669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunderAcidus_die02
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 18
+        width: 123
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2775e3b1690f134683b36c82f917b3d
+      internalID: -1110368700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      thunderAcidus_45: 1920065621
+      thunderAcidus_20: 784897527
+      thunderAcidus_24: -318076559
+      thunderAcidus_74: -838369281
+      thunderAcidus_49: -974809384
+      thunderAcidus_21: 1727198514
+      thunderAcidus_17: 489787943
+      thunderAcidus_48: -645766952
+      thunderAcidus_56: 109577010
+      thunderAcidus_59: -95260290
+      thunderAcidus_66: -1491685936
+      thunderAcidus_41: -326810339
+      thunderAcidus_57: -759853278
+      thunderAcidus_16: 1564893910
+      thunderAcidus_62: -1450460694
+      thunderAcidus_25: -1790699845
+      thunderAcidus_36: -1686074850
+      thunderAcidus_50: 1751572337
+      thunderAcidus_9: -367199515
+      thunderAcidus_72: 199881324
+      thunderAcidus_77: -466230364
+      thunderAcidus_46: -1911658262
+      thunderAcidus_73: 1809113394
+      thunderAcidus_76: 1297918584
+      thunderAcidus_die01: -1174417669
+      thunderAcidus_23: -1926971398
+      thunderAcidus_32: -48337261
+      thunderAcidus_idlewalk05: -341912648
+      thunderAcidus_61: 280543847
+      thunderAcidus_80: -1497660557
+      thunderAcidus_idlewalk00: -82949916
+      thunderAcidus_60: -1999495204
+      thunderAcidus_15: -400305240
+      thunderAcidus_idlewalk04: -127454828
+      thunderAcidus_30: 1260486400
+      thunderAcidus_idlewalk07: 2035981003
+      thunderAcidus_26: -368278468
+      thunderAcidus_34: 1729488051
+      thunderAcidus_idlewalk03: 1093954014
+      thunderAcidus_idlewalk01: 973783556
+      thunderAcidus_atk00: -267257866
+      thunderAcidus_19: 811412880
+      thunderAcidus_14: 271425943
+      thunderAcidus_43: -1173686341
+      thunderAcidus_47: 1462938038
+      thunderAcidus_42: -847367911
+      thunderAcidus_65: 230188545
+      thunderAcidus_idlewalk02: 354131310
+      thunderAcidus_67: 658828106
+      thunderAcidus_10: -1583258795
+      thunderAcidus_22: -994016351
+      thunderAcidus_75: -613906438
+      thunderAcidus_idlewalk06: -1089775222
+      thunderAcidus_40: -1206410125
+      thunderAcidus_71: 474256367
+      thunderAcidus_37: -1658989914
+      thunderAcidus_53: 1322023947
+      thunderAcidus_78: -1363942217
+      thunderAcidus_35: -926395141
+      thunderAcidus_44: -1610207700
+      thunderAcidus_die00: -1052063033
+      thunderAcidus_11: 1296217949
+      thunderAcidus_27: 183219458
+      thunderAcidus_8: -1378928845
+      thunderAcidus_81: 1651930723
+      thunderAcidus_29: -1469236444
+      thunderAcidus_18: 1549596034
+      thunderAcidus_31: -2075147579
+      thunderAcidus_79: 1428084132
+      thunderAcidus_52: -695236723
+      thunderAcidus_63: 2121513488
+      thunderAcidus_39: -880253175
+      thunderAcidus_64: -1846707002
+      thunderAcidus_13: -634569470
+      thunderAcidus_28: -1304872853
+      thunderAcidus_33: -1658207298
+      thunderAcidus_51: -1547800672
+      thunderAcidus_atk01: -96525110
+      thunderAcidus_38: 563005844
+      thunderAcidus_12: -510065908
+      thunderAcidus_58: 81930091
+      thunderAcidus_die02: -1110368700
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

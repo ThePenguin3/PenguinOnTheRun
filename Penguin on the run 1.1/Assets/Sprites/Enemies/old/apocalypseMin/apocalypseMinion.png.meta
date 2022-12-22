@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 886f2890d2d9de644a08bb36bc49d259
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: apocalypseMinion_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 750
+        width: 83
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ac0390921285f4ea48ca6ca042d15a
+      internalID: -299261406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 745
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071c98cd40892fb4a8989001237ed941
+      internalID: -1011670300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 745
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4d36ed944e67748b0b0868184dd622
+      internalID: 542939534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 745
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0858715e044a9ff4d92f0a8471951b37
+      internalID: 1762063150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 745
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9147d86ff0a8d4ebde232ef3a81b39
+      internalID: -63730412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 744
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92707cc2b8a50714588315df3929ccbc
+      internalID: -157683660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 742
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c18b8f710672c640a58f14ab243c106
+      internalID: -146873930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_7
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 701
+        width: 368
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b101ae9c842fd4e85c1d952af87883
+      internalID: 1914251489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 482
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff01de34e73af3a4cb19bd6d0eb13545
+      internalID: -981885967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 480
+        width: 73
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b64eeaa2b1953409160b89598b1313
+      internalID: 1124420686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 476
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ec0eee078829d498ac954d3d36723d
+      internalID: 1016660106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 472
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d504f2851f92042ab6783b3de90a39
+      internalID: 1383995508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 476
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03867170784f85343b6be7465e0d3cbf
+      internalID: -1574949699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_27
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 478
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eb2f8b1312ae14cb7cda0eb515bf6a
+      internalID: -2116258081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 315
+        width: 77
+        height: 134
+      alignment: 9
+      pivot: {x: 0.48622498, y: 0.39911413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d64eb0e57d4c840a113411da35db84
+      internalID: -1039246151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 316
+        width: 76
+        height: 131
+      alignment: 9
+      pivot: {x: 0.49291852, y: 0.39321038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eb75e3f9d1bb64fb80a8ab78276f29
+      internalID: -777699545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_38
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 318
+        width: 109
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4ae815739de9c409a8c9cbf878596c
+      internalID: -645012059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 312
+        width: 109
+        height: 109
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7bb255b35a1674a99c86a5598f6036
+      internalID: -84754798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 313
+        width: 109
+        height: 109
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00daa0a1f26b5bd40bad5f234f58f33b
+      internalID: -449419197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_42
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 468
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae62f41d2dca0db40bec285a628cb44e
+      internalID: -1729969690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5
+        width: 84
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7097f310df2f8b45b83a8ff2b5e4079
+      internalID: 423768108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_56
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4911413c654d7c4c830a74c53b5babe
+      internalID: 493263737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_59
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 67
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221c97fafc3e9324a9291e3a83fb8591
+      internalID: -2036024745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 67
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c960313a4667cc4099ca67663a6c41a
+      internalID: 748143240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_61
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 64
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48ae08ab6523d44a34e2982f371f0e
+      internalID: 1170994039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_62
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 67
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33029a9c5df9376459bb2871d7cacf65
+      internalID: 1243978238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_63
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 55
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dfaacf64707fd479dd362e3680f07f
+      internalID: 1037573305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_64
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 52
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbd8ae5ec92d1e409d3f325924856e2
+      internalID: -2045370017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_65
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 55
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3055548cf292b49aed8dc7a273b57c
+      internalID: 1474162382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypseMinion_66
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 52
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e818e974a79ae246b37a8715f7fffba
+      internalID: 458468945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      apocalypseMinion_53: 815439976
+      apocalypseMinion_60: 748143240
+      apocalypseMinion_42: -1729969690
+      apocalypseMinion_58: -766161843
+      apocalypseMinion_33: -1056842858
+      apocalypseMinion_3: 1762063150
+      apocalypseMinion_20: -1450205681
+      apocalypseMinion_19: -1504750950
+      apocalypseMinion_23: 1124420686
+      apocalypseMinion_4: -63730412
+      apocalypseMinion_35: 1269173217
+      apocalypseMinion_8: -1306423993
+      apocalypseMinion_15: 1651726902
+      apocalypseMinion_31: 1225582294
+      apocalypseMinion_44: -725882224
+      apocalypseMinion_22: -981885967
+      apocalypseMinion_66: 458468945
+      apocalypseMinion_39: -84754798
+      apocalypseMinion_17: 1110474039
+      apocalypseMinion_54: 134902644
+      apocalypseMinion_48: 1999321058
+      apocalypseMinion_10: 1547919549
+      apocalypseMinion_16: -1375576353
+      apocalypseMinion_38: -645012059
+      apocalypseMinion_64: -2045370017
+      apocalypseMinion_30: 420438111
+      apocalypseMinion_1: -1011670300
+      apocalypseMinion_32: -1988782163
+      apocalypseMinion_2: 542939534
+      apocalypseMinion_18: 252230725
+      apocalypseMinion_56: 493263737
+      apocalypseMinion_46: -1564989028
+      apocalypseMinion_59: -2036024745
+      apocalypseMinion_63: 1037573305
+      apocalypseMinion_49: 1795066050
+      apocalypseMinion_62: 1243978238
+      apocalypseMinion_21: -1475047010
+      apocalypseMinion_6: -146873930
+      apocalypseMinion_25: 1383995508
+      apocalypseMinion_5: -157683660
+      apocalypseMinion_12: 1690878893
+      apocalypseMinion_26: -1574949699
+      apocalypseMinion_9: 1901722796
+      apocalypseMinion_61: 1170994039
+      apocalypseMinion_14: -86869833
+      apocalypseMinion_11: 1785958924
+      apocalypseMinion_43: 752134404
+      apocalypseMinion_51: 516997925
+      apocalypseMinion_28: 795488719
+      apocalypseMinion_41: -1372777628
+      apocalypseMinion_13: 865931940
+      apocalypseMinion_50: -1107251996
+      apocalypseMinion_29: -1255674815
+      apocalypseMinion_57: 1381560789
+      apocalypseMinion_37: -777699545
+      apocalypseMinion_24: 1016660106
+      apocalypseMinion_47: -244649333
+      apocalypseMinion_40: -449419197
+      apocalypseMinion_27: -2116258081
+      apocalypseMinion_7: 1914251489
+      apocalypseMinion_52: 1113958099
+      apocalypseMinion_36: -1039246151
+      apocalypseMinion_65: 1474162382
+      apocalypseMinion_0: -299261406
+      apocalypseMinion_45: 395714130
+      apocalypseMinion_55: 423768108
+      apocalypseMinion_34: -2144729540
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

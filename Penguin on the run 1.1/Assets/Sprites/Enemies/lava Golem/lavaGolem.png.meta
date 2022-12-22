@@ -1,0 +1,3391 @@
+fileFormatVersion: 2
+guid: 71f98e21b429e5342943db3771568ebb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lavaGolem_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1610
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f6688de2ee4184ab7fd43c02173893
+      internalID: 369314052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1610
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18242fdbcaab8094187766f1273d754c
+      internalID: -542539442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1609
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47f281cce9222f4794c8b8074fa46c0
+      internalID: -571376541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1609
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a221bd3edd6252d49b2df736807a45c0
+      internalID: 250069066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_4
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1609
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7e0b5b3381d544a849bfd7beaf03f5
+      internalID: -1293661759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_5
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1610
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627757ede8073f345aa20f03cb90d6c7
+      internalID: -299464771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1606
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44fd562adb209e4ab17ccdb1fb22c15
+      internalID: 2009210773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_7
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1606
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c876ec8eef7c8d84ea987a2559c28c2a
+      internalID: -7464879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_8
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1606
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5641c35975bb2c4a9a4e9c941093eff
+      internalID: -1748507163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_9
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1606
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff09726155ad92c4ab4f27c3268dcb34
+      internalID: -1719123674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_10
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1606
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1086f8b2920e6264d8cba0d4b3752512
+      internalID: 1152246974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_11
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1603
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9092d2588f7ed49871f44dc46d7a53
+      internalID: 1348427779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1471
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47691f1ff48123742860fa0fb7da28c7
+      internalID: -1814148814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1470
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69074ee081cd014489805a5d3be315af
+      internalID: -937366803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1470
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe52b21d66ea1c4bbec13df12ca872f
+      internalID: 945680355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1469
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbd70719d2122440b343c1ea0d8fd2e
+      internalID: 1448315616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_16
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1470
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa5533dcf30f34429c07c8d15d9d5da
+      internalID: -1317183193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_17
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1470
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f2a668d852f74ebe3baa239928f19
+      internalID: -167792919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1331
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0226c0d4c3e67b4bbaceb260cf76d5f
+      internalID: -492902326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1331
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8b5a74a3b6a9b48b1a4b45d828149c
+      internalID: -1390207687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1334
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75961f0048d4fca43ad329a7e2f3a919
+      internalID: 61927086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1334
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70eb9c5552c0ee48b5e484179c8eb53
+      internalID: -1420355340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_22
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1335
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dda41448ecac7e498cb6b6c01c5a9d9
+      internalID: -1094072634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1333
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbb3d08fc2f78443a0df1d8a7426a4a
+      internalID: 1795841199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1201
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986d72c1c6a724d469c1fc4645151b1a
+      internalID: 1499921379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1199
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd0d1e05d9170e42a065f819f93b3d9
+      internalID: 1585703490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1201
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6942e980fee5d45acef5f7425a491a
+      internalID: 647520842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_27
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1200
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8223eb378293cef4e9a3f7875d195936
+      internalID: -2067679757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_28
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1200
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4538ab0b795b7c4081a596f60aec76d
+      internalID: -2068923694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_29
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1200
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9d16783fdb4b14fb3ad12e8a00c13a
+      internalID: -365733494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_30
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1172
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dd8e40261caba4e9ef4e5b8aed31d2
+      internalID: 173908440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_31
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1172
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bef1de56117e8d4c8488a51293e9298
+      internalID: -1234406003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_32
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1172
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833eeb278c1301945b1a02b24df91c95
+      internalID: -1129164171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_33
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1172
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38479903c2e6a74ebacbec5f6497ca6
+      internalID: -1892471300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_34
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1169
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895d93a38ad4ca54eaafadc05d3d0be3
+      internalID: 2095969715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1051
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d56eb8e733627b46b53b44079ccee28
+      internalID: -916832087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1050
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39ecd69c43fd614fb6f646d1b30af0c
+      internalID: -1664500057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1051
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f4792626867f147874f54561dbb0bf
+      internalID: -628936781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_38
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1051
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce5a83d4961f8149bf423a1d354de79
+      internalID: -1728979659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_39
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1050
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d023f56c879bc5149a08557e6b469def
+      internalID: 1848249362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_40
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1051
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b4ac4e27f22d74894e4396762eb9e2
+      internalID: 124015362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 913
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7340372c103b44ead2d14cd2585d2e
+      internalID: -1280335963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 912
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41404df47ebcdad42b70f8e12ca15270
+      internalID: -343330445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_43
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 911
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c844d1500a2bfd4d901593560db718c
+      internalID: 583419112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 911
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e688ebac412954b967519a02098f2f
+      internalID: 1279008135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_45
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 913
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e361c53a47a4e4b88e7bcd69359605
+      internalID: -1768506625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_46
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 913
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94e6a9d50a632744ba02b44f0eed05a
+      internalID: -1954646739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_47
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 771
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40acfe2bc9d2380498e381471a2110c7
+      internalID: -1665568212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 769
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9c8b7bf1f27824394919f3b446b001
+      internalID: -620089070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_49
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 767
+        width: 65
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d2f3407862d264dbca4d4b77901a48
+      internalID: 2045857478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_50
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 766
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbc48c5fa353e347ac4de276f8c7450
+      internalID: -1908924261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_51
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 771
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e115c46b95e24eba5b77b5b50b25a
+      internalID: 172618942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 773
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6220dd4708a1f2b47801222a9e91c842
+      internalID: -2085153868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_53
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 771
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c460eaa157a56b4db462e57f0516dab
+      internalID: -998547835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_54
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 771
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cbab566e4c32c49a145cdfe43c495e
+      internalID: -538973812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_55
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 751
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf596550836ae9a449bb9b6e34a8df69
+      internalID: 418667123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_56
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 751
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab63c48c2d3d31441a1dcc93d9ebd70a
+      internalID: -1111931248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_57
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 751
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e47075af7211c46b3ee1f075db6b96
+      internalID: 929697864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_58
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 751
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4671d822651693a4b86bf03a1c486bbd
+      internalID: 1297984476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_59
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 751
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa31c26ea7beaed4e9f771f4291d4d7f
+      internalID: -1478365252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_60
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 748
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549f2e921b3d166468104a439c69b9eb
+      internalID: -1612406217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 630
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7c8df5bc1528244b47aedfdd984c47
+      internalID: 1997765359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_62
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 628
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58432b842f1e97f4486d5b2a39dab66b
+      internalID: -1373666588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_63
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 627
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a53d7cf6a176d499d3a0f28fef3a17
+      internalID: 1588961726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_64
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 626
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ea8dd135b2e004cb66d2103c8c34f9
+      internalID: -202090768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_65
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 632
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839254496d497b347b50d2794d0f99a6
+      internalID: 787798617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_66
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 634
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5b08e7d8af88d478adb9bcddc3d2ae
+      internalID: -662413541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_67
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 632
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e992e66d1812641ac46b36e8927442
+      internalID: -1309811690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_68
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 633
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7120a71fa9269448af5c8b63d42607c
+      internalID: 1863196557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 480
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42289582b280214090177e808152680
+      internalID: -1736849644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 480
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60cb173198cd3a4a8af7c5754d422af
+      internalID: 1507163589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_71
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 482
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073c29861dc41594a869204254a2ab14
+      internalID: 1530803326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_72
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 487
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632c5b775d075b64b9c33508a6c5d3cb
+      internalID: -643403378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_73
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 491
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9eccd4123bba241a634164ee552209
+      internalID: -296193438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_74
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 494
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984801940648df94193882a90127c35e
+      internalID: -1504722672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_75
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 499
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844e7f7d5619201439442ac64b135964
+      internalID: 2225542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_76
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 504
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8989fb5db51ccd4e916cb8d0d6f5a0e
+      internalID: -1233176167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_77
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 504
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c11757f149fc414989b98e28e8b5066
+      internalID: 1275231792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_78
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 474
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b04185ebb82274caa602277ea59e80
+      internalID: 286396721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_79
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 474
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734dd2a3f4677ae4fb159b29d621580b
+      internalID: -1865679390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_80
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 474
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5a662723891c241a1e66e69b58c5f1
+      internalID: 326677307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_81
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 474
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ea646dbc17c8740ba12761a9c4445a
+      internalID: 107091663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_82
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 458
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93718e02be348941addb21f2b239685
+      internalID: -791021906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_83
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 455
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4105e590331d3354e8472f00626c74e2
+      internalID: 2062250663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_84
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 458
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dfed01894bf3244b80862b43f78f09
+      internalID: -55608688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_85
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 455
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ea5bcea1e771745951b74560ceebca
+      internalID: -2049103723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_86
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 332
+        width: 68
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15249d4f1e4b01349812a4508e834cd5
+      internalID: -1470994583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_87
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 333
+        width: 68
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1727d6c1a877d4e8eda0f3e5c891e5
+      internalID: 1862600891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_88
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 332
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655af6e3a95eaa7448c72222b0a62632
+      internalID: 2074781115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_89
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 338
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45084ebfed22a1042beaad1529d7337e
+      internalID: -559920782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_90
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 342
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0748f51a19af19c44a19002de892c6d9
+      internalID: 576869115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_91
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 347
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e54e068b0519e04d8400d5ea2b74600
+      internalID: 1162148570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_92
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 352
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e7be9398047f6408e20282b79dc5cc
+      internalID: 528062776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_93
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 358
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be25800058653834480a499a0f734626
+      internalID: 1718130654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_94
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 358
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730d9ee7dc15437489d7938ec34783df
+      internalID: -634400926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_95
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 253
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d66d0aa52005a4ca1a2ff0843ae5bc
+      internalID: -2134136611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_96
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 253
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8e94f4d0cc7064790b06c00e30c35d
+      internalID: -901247719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_97
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 249
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1becfb39a8af0b44acab445235602d3
+      internalID: -754394583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_98
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 241
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c3c5664b7ffcf4f9e2259ad81c3315
+      internalID: -583028014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_99
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 234
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d8fffcfdb6fd42b23eced6a4c0803
+      internalID: -719510044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_100
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 217
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8061718ceb4f0e849962e5bae2e1aeb6
+      internalID: -1451088075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_101
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 216
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e0d68e43a6ca4cbc0c24f0ae3899c
+      internalID: -995155785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_102
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 253
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1e06fc0585ccd4c847b5c4d2eb7508
+      internalID: 395489184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_103
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 252
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66870db69cef32240b7aacccce160221
+      internalID: 2130873699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_104
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 217
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4694b8c0459a2754d86671ba355e2f01
+      internalID: -1300613446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_105
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 249
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b0b674c389fc44982c8277311abefc
+      internalID: -1838818045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_106
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 246
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8968c7dbfd8699549854aa6f3350a784
+      internalID: -2044758087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_107
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 242
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fabbe38dd9b7a942b3d6edf979be4bd
+      internalID: -1049476529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_108
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 90
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6bffd19caefcd428e6c9abcd8fcf0c
+      internalID: -1191044168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 93
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e71fe891c4de5e4fb3f2a29cea409a6
+      internalID: -1137741778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_110
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 102
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318c495b259be6d48a9b7cab35a29ac0
+      internalID: -2065045018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_111
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 106
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5ff93f76d2c3c49b63daf2f9ef10e7
+      internalID: -943783626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_112
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 159
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347bb98fb78d25f40a442bfdbdbcf7e0
+      internalID: 1787521799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_113
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 112
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e778f83c3eaa8841a98eb441864c6a4
+      internalID: 1602482169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_114
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 161
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9e14485a8691343a9c5e4b66694742
+      internalID: -1244431554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_115
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 152
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0089cc092b43db4299eef53e64803e4
+      internalID: -937451991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_116
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 155
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64779f1adcb1a504e91bacf2769d4ff3
+      internalID: 672775362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_117
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 146
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fff16ca9c0026c4a83d6a3d0fec45ee
+      internalID: -950431474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_118
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 143
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3879142080693842a3a223765c99865
+      internalID: -580368400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_119
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 139
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165130cdd81b63644ba7214f149a5349
+      internalID: 934332037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_120
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 142
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5127bcec193d99a48a7726814086763c
+      internalID: -464025972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_121
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 110
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff944e286437c0c42b7bce498fd38e89
+      internalID: -608588577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_122
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 116
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d588f77af3828b54fb5ef2efb6321754
+      internalID: -1275043114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_123
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 138
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fa2bb66e269684eab8f9df218f60a7
+      internalID: 57418818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_124
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 132
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fb9fb61826be84f9524f61303afb69
+      internalID: 1620642031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_125
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 133
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506b5b4ec1be57d4d818bafdba392d4a
+      internalID: 54528527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_126
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 120
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bbd9b994b8e224bb1d3a0a80e25a67
+      internalID: 951846393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_127
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 120
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c37f63428ebf44590c80226ddd32fc
+      internalID: -1774756901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_128
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 122
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bdb5daff9d67e4e8fd1acfe6cdae3b
+      internalID: -1828666831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 116
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96032bd1739964d43a045740f6c1db46
+      internalID: -2008906262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_130
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 116
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12fffbc67cbdf647a1ff6906c3788b6
+      internalID: -1251556297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_131
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 100
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3f7398b280baf49b6dac385efccc7d
+      internalID: 2000877736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_132
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 103
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9678053eacf2664a9ea24d0b991b322
+      internalID: -442018500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 34
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31032f84fd00c914ca2398dc2a00364a
+      internalID: 1683737206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_134
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 11
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09f3b171377ff345ae9fcabb6f1a447
+      internalID: -1945600692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_135
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 25
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e083aa0808b4d4199159d168d4cf1c
+      internalID: 978486189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_136
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 25
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea86fe4286a7e9d479807bc133a1cbcb
+      internalID: -92552498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_137
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 25
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18baebb71ff26144b6179c63394e537
+      internalID: 1981704371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_138
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 25
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de7f91d39bd0344b75a469fd2c5b6d
+      internalID: -1193739196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_139
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 22
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0720689402fa047a7fae61249f06f5
+      internalID: 1135614972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_140
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 15
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97eb07e79c26724a9fade889f86bb8b
+      internalID: -1974042714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_141
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 16
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bed76872623d04b92c4bc19538c2a5
+      internalID: -24125031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_142
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 16
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85bfde483bf0cf48a0ce5e52fa86a40
+      internalID: 104263540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_143
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 25
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47f10823a3c5774fb415adece9a893a
+      internalID: -1215503290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_144
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 25
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1879a31b80d87b041840f3acfceb652a
+      internalID: 404391567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_145
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 25
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ec3a96b20c1842aab1b2babc77cd0
+      internalID: 886946614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_146
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e84dda38d866d4984723c058fd5315
+      internalID: 1416167770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaGolem_147
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 25
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db53c61d15505354d85d6c4c724f7d70
+      internalID: 1237181510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lavaGolem_22: -1094072634
+      lavaGolem_68: 1863196557
+      lavaGolem_128: -1828666831
+      lavaGolem_31: -1234406003
+      lavaGolem_53: -998547835
+      lavaGolem_142: 104263540
+      lavaGolem_113: 1602482169
+      lavaGolem_4: -1293661759
+      lavaGolem_93: 1718130654
+      lavaGolem_20: 61927086
+      lavaGolem_23: 1795841199
+      lavaGolem_33: -1892471300
+      lavaGolem_129: -2008906262
+      lavaGolem_145: 886946614
+      lavaGolem_45: -1768506625
+      lavaGolem_133: 1683737206
+      lavaGolem_49: 2045857478
+      lavaGolem_99: -719510044
+      lavaGolem_94: -634400926
+      lavaGolem_112: 1787521799
+      lavaGolem_134: -1945600692
+      lavaGolem_91: 1162148570
+      lavaGolem_122: -1275043114
+      lavaGolem_76: -1233176167
+      lavaGolem_105: -1838818045
+      lavaGolem_136: -92552498
+      lavaGolem_87: 1862600891
+      lavaGolem_19: -1390207687
+      lavaGolem_70: 1507163589
+      lavaGolem_62: -1373666588
+      lavaGolem_84: -55608688
+      lavaGolem_96: -901247719
+      lavaGolem_67: -1309811690
+      lavaGolem_89: -559920782
+      lavaGolem_73: -296193438
+      lavaGolem_141: -24125031
+      lavaGolem_18: -492902326
+      lavaGolem_92: 528062776
+      lavaGolem_110: -2065045018
+      lavaGolem_41: -1280335963
+      lavaGolem_104: -1300613446
+      lavaGolem_82: -791021906
+      lavaGolem_103: 2130873699
+      lavaGolem_44: 1279008135
+      lavaGolem_77: 1275231792
+      lavaGolem_117: -950431474
+      lavaGolem_0: 369314052
+      lavaGolem_61: 1997765359
+      lavaGolem_107: -1049476529
+      lavaGolem_13: -937366803
+      lavaGolem_72: -643403378
+      lavaGolem_108: -1191044168
+      lavaGolem_106: -2044758087
+      lavaGolem_119: 934332037
+      lavaGolem_102: 395489184
+      lavaGolem_32: -1129164171
+      lavaGolem_39: 1848249362
+      lavaGolem_90: 576869115
+      lavaGolem_74: -1504722672
+      lavaGolem_64: -202090768
+      lavaGolem_131: 2000877736
+      lavaGolem_59: -1478365252
+      lavaGolem_137: 1981704371
+      lavaGolem_66: -662413541
+      lavaGolem_86: -1470994583
+      lavaGolem_143: -1215503290
+      lavaGolem_139: 1135614972
+      lavaGolem_17: -167792919
+      lavaGolem_21: -1420355340
+      lavaGolem_57: 929697864
+      lavaGolem_146: 1416167770
+      lavaGolem_124: 1620642031
+      lavaGolem_65: 787798617
+      lavaGolem_42: -343330445
+      lavaGolem_115: -937451991
+      lavaGolem_118: -580368400
+      lavaGolem_15: 1448315616
+      lavaGolem_116: 672775362
+      lavaGolem_88: 2074781115
+      lavaGolem_98: -583028014
+      lavaGolem_14: 945680355
+      lavaGolem_24: 1499921379
+      lavaGolem_52: -2085153868
+      lavaGolem_123: 57418818
+      lavaGolem_127: -1774756901
+      lavaGolem_147: 1237181510
+      lavaGolem_2: -571376541
+      lavaGolem_100: -1451088075
+      lavaGolem_109: -1137741778
+      lavaGolem_78: 286396721
+      lavaGolem_6: 2009210773
+      lavaGolem_63: 1588961726
+      lavaGolem_9: -1719123674
+      lavaGolem_79: -1865679390
+      lavaGolem_71: 1530803326
+      lavaGolem_83: 2062250663
+      lavaGolem_30: 173908440
+      lavaGolem_80: 326677307
+      lavaGolem_144: 404391567
+      lavaGolem_121: -608588577
+      lavaGolem_95: -2134136611
+      lavaGolem_81: 107091663
+      lavaGolem_27: -2067679757
+      lavaGolem_58: 1297984476
+      lavaGolem_85: -2049103723
+      lavaGolem_11: 1348427779
+      lavaGolem_54: -538973812
+      lavaGolem_34: 2095969715
+      lavaGolem_47: -1665568212
+      lavaGolem_51: 172618942
+      lavaGolem_40: 124015362
+      lavaGolem_46: -1954646739
+      lavaGolem_12: -1814148814
+      lavaGolem_56: -1111931248
+      lavaGolem_135: 978486189
+      lavaGolem_101: -995155785
+      lavaGolem_3: 250069066
+      lavaGolem_111: -943783626
+      lavaGolem_48: -620089070
+      lavaGolem_55: 418667123
+      lavaGolem_138: -1193739196
+      lavaGolem_28: -2068923694
+      lavaGolem_97: -754394583
+      lavaGolem_132: -442018500
+      lavaGolem_38: -1728979659
+      lavaGolem_114: -1244431554
+      lavaGolem_29: -365733494
+      lavaGolem_35: -916832087
+      lavaGolem_1: -542539442
+      lavaGolem_5: -299464771
+      lavaGolem_43: 583419112
+      lavaGolem_130: -1251556297
+      lavaGolem_16: -1317183193
+      lavaGolem_26: 647520842
+      lavaGolem_126: 951846393
+      lavaGolem_8: -1748507163
+      lavaGolem_125: 54528527
+      lavaGolem_140: -1974042714
+      lavaGolem_69: -1736849644
+      lavaGolem_10: 1152246974
+      lavaGolem_25: 1585703490
+      lavaGolem_37: -628936781
+      lavaGolem_60: -1612406217
+      lavaGolem_7: -7464879
+      lavaGolem_36: -1664500057
+      lavaGolem_120: -464025972
+      lavaGolem_75: 2225542
+      lavaGolem_50: -1908924261
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
